@@ -18,9 +18,9 @@ def hopper
 
  programmer_hash[:grace_hopper]
 
-puts programmer_hash[:alan_kay][:known_for]
+ programmer_hash[:alan_kay][:known_for]
 
-puts programmer_hash[:dennis_ritchie][:languages]
+programmer_hash[:dennis_ritchie][:languages]
 
 
 
